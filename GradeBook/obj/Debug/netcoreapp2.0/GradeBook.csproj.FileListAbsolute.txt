@@ -1,0 +1,24 @@
+C:\Users\Dawid Czuba\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.deps.json
+C:\Users\Dawid Czuba\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.json
+C:\Users\Dawid Czuba\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.dev.json
+C:\Users\Dawid Czuba\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\Dawid Czuba\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.pdb
+C:\Users\Dawid Czuba\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csprojAssemblyReference.cache
+C:\Users\Dawid Czuba\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\Dawid Czuba\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\Dawid Czuba\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfo.cs
+C:\Users\Dawid Czuba\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\Dawid Czuba\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.pdb
+C:\Users\Dawid Czuba\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.genruntimeconfig.cache
+C:\Users\Dawid Czuba\source\repos\cs-lab01-GradeBookApplication-dawid czuba nr albumu 12193\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.deps.json
+C:\Users\Dawid Czuba\source\repos\cs-lab01-GradeBookApplication-dawid czuba nr albumu 12193\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.json
+C:\Users\Dawid Czuba\source\repos\cs-lab01-GradeBookApplication-dawid czuba nr albumu 12193\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.dev.json
+C:\Users\Dawid Czuba\source\repos\cs-lab01-GradeBookApplication-dawid czuba nr albumu 12193\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\Dawid Czuba\source\repos\cs-lab01-GradeBookApplication-dawid czuba nr albumu 12193\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.pdb
+C:\Users\Dawid Czuba\source\repos\cs-lab01-GradeBookApplication-dawid czuba nr albumu 12193\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csprojAssemblyReference.cache
+C:\Users\Dawid Czuba\source\repos\cs-lab01-GradeBookApplication-dawid czuba nr albumu 12193\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\Dawid Czuba\source\repos\cs-lab01-GradeBookApplication-dawid czuba nr albumu 12193\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfo.cs
+C:\Users\Dawid Czuba\source\repos\cs-lab01-GradeBookApplication-dawid czuba nr albumu 12193\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\Dawid Czuba\source\repos\cs-lab01-GradeBookApplication-dawid czuba nr albumu 12193\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\Dawid Czuba\source\repos\cs-lab01-GradeBookApplication-dawid czuba nr albumu 12193\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.pdb
+C:\Users\Dawid Czuba\source\repos\cs-lab01-GradeBookApplication-dawid czuba nr albumu 12193\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.genruntimeconfig.cache
